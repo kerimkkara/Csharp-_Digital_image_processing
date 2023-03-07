@@ -1,0 +1,2 @@
+Derleyici: Visual Studio Community Edition 2022 
+Programlama Dili: C#

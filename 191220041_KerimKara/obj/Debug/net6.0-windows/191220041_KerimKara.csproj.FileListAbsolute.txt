@@ -1,0 +1,48 @@
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.exe
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.dll
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.csproj.AssemblyReference.cache
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form1.resources
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form2.resources
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form3.resources
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form4.resources
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form5.resources
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form6.resources
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.csproj.GenerateResource.cache
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.AssemblyInfoInputs.cache
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.AssemblyInfo.cs
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.csproj.CoreCompileInputs.cache
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.dll
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\refint\191220041_KerimKara.dll
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.pdb
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.deps.json
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.runtimeconfig.json
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.pdb
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.genruntimeconfig.cache
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\ref\191220041_KerimKara.dll
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form7.resources
+C:\Users\karak\Desktop\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Properties.Resources.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.exe
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.deps.json
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.runtimeconfig.json
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.dll
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\bin\Debug\net6.0-windows\191220041_KerimKara.pdb
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.csproj.AssemblyReference.cache
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form1.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form2.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form3.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form4.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form5.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form6.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Form7.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\_191220041_KerimKara.Properties.Resources.resources
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.csproj.GenerateResource.cache
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.AssemblyInfoInputs.cache
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.AssemblyInfo.cs
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.csproj.CoreCompileInputs.cache
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.dll
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\refint\191220041_KerimKara.dll
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.pdb
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\191220041_KerimKara.genruntimeconfig.cache
+C:\Users\karak\Desktop\Sayısal Görüntü İşleme Vize Proje\191220041_KerimKara\191220041_KerimKara\obj\Debug\net6.0-windows\ref\191220041_KerimKara.dll
